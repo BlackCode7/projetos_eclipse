@@ -15,3 +15,5 @@ git push -u origin main
 git remote add origin https://github.com/BlackCode7/projetos_eclipse.git
 git branch -M main
 git push -u origin main
+
+EXERCÍCIOS EXECUTADOS NESTE DIRETÓRIO.
